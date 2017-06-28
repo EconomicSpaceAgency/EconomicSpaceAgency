@@ -8,7 +8,7 @@ Economic Space Agency is involved in two interlinked projects, SPACE and GRAVITY
 * <a href="#gravity">Gravity</a>
 * <a href="#code">Code</a>
 * <a href="#online">Online Communities</a>
-* <a href="#tutorials">Tutorials</a>
+* <a href="#materials">Materials & Resources</a>
 * <a href="#papers">Papers</a>
 * <a href="#events">Events</a>
 * <a href="#online">Requests for Comments</a>
@@ -48,7 +48,7 @@ GRAVITY is a resilient, distributed smart contracts computational network that a
 * [Medium blog](https://medium.com/@ecsa_team/)
 * [Facebook group](https://www.facebook.com/economicspaceagency/)
 
-## <a name="tutorials">Tutorials</a>
+## <a name="matarials">Materials & Resources</a>
 
 ## <a name="online">Papers</a>
 

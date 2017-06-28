@@ -50,6 +50,8 @@ GRAVITY is a resilient, distributed smart contracts computational network that a
 
 ## <a name="matarials">Materials & Resources</a>
 
+* [Newsletters](http://newsletter.ecsa.io)
+
 ## <a name="online">Papers</a>
 
 ## <a name="events">Events</a>

@@ -8,7 +8,6 @@ Economic Space Agency is involved in two interlinked projects, SPACE and GRAVITY
 * <a href="#gravity">Gravity</a>
 * <a href="#online">Online Resources</a>
 * <a href="#events">Events</a>
-* <a href="#online">Requests for Comments</a>
 * <a href="#hth">How to Help</a>
 
 <!--

@@ -6,7 +6,6 @@ Economic Space Agency is involved in two interlinked projects, SPACE and GRAVITY
 
 * <a href="#space">Space</a>
 * <a href="#gravity">Gravity</a>
-* <a href="#code">Code</a>
 * <a href="#online">Online Communities</a>
 * <a href="#materials">Materials & Resources</a>
 * <a href="#papers">Papers</a>
@@ -33,10 +32,12 @@ GRAVITY is a resilient, distributed smart contracts computational network that a
 - Scalability: Networks of interoperable logical distinct VMs inherit the natural scalability properties of networks.
 - Speed: Since there is no one single global state to replicate and agree upon, consistent, high speed commits, among autonomous VMs/Agents may be achieved through distributed transactions.
 
+<!--
 ## <a name="code">Code</a>
 
 * [Gravity](https://github.com/GravityNetwork/Gravity)
 * [Space](https://github.com/EconomicSpaceAgency/Space)
+-->
 
 ## <a name="online">Online Communities</a>
 

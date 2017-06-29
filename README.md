@@ -6,9 +6,10 @@ Economic Space Agency is involved in two interlinked projects, SPACE and GRAVITY
 
 * <a href="#space">Space</a>
 * <a href="#gravity">Gravity</a>
-* <a href="#online">Online Communities</a>
-* <a href="#materials">Materials & Resources</a>
-* <a href="#papers">Papers</a>
+<!--
+* <a href="#papers">White Papers</a>
+-->
+* <a href="#online">Online Resources</a>
 * <a href="#events">Events</a>
 * <a href="#online">Requests for Comments</a>
 * <a href="#hth">How to Help</a>
@@ -39,7 +40,7 @@ GRAVITY is a resilient, distributed smart contracts computational network that a
 * [Space](https://github.com/EconomicSpaceAgency/Space)
 -->
 
-## <a name="online">Online Communities</a>
+## <a name="online">Online Resources</a>
 
 * [Economic Spaces Slack](http://slack.ecsa.io)
 * [Economic Space Agency mailing list](http://mailing.ecsa.io/?p=subscribe&id=1)
@@ -48,18 +49,16 @@ GRAVITY is a resilient, distributed smart contracts computational network that a
 * [YouTube](https://www.youtube.com/channel/UCUYSiFZWVcCnL0YMG7Qmvjg)
 * [Medium blog](https://medium.com/@ecsa_team/)
 * [Facebook group](https://www.facebook.com/economicspaceagency/)
-
-## <a name="materials">Materials & Resources</a>
-
 * [Newsletters](http://newsletter.ecsa.io)
 
-## <a name="online">Papers</a>
+<!--
+## <a name="papers">White Papers</a>
+-->
 
 ## <a name="events">Events</a>
 
 * [MeetUps](https://www.meetup.com/EconomyOS/)
 * [Economic Space Agency Events](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/events/README.md)
 
-## <a name="rfc">Requests for Comments</a>
-
 ## <a name="hth">How to Help</a>
+* Join us on [Slack](http://slack.ecsa.io), we're friendly folks :)

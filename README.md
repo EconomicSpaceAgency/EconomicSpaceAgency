@@ -43,8 +43,7 @@ GRAVITY is a resilient, distributed smart contracts computational network that a
 ## <a name="online">Online Resources</a>
 
 * [Economic Spaces Slack](http://slack.ecsa.io)
-* [Economic Space Agency mailing list](http://mailing.ecsa.io/?p=subscribe&id=1)
-* [Gravity developers mailing list](http://agoric.info/lists/?p=subscribe)
+* [Economic Space Agency mailing list](http://newsletter.ecsa.io/join-the-mailing-list)
 * [Twitter](https://twitter.com/ecsa_team)
 * [YouTube](https://www.youtube.com/channel/UCUYSiFZWVcCnL0YMG7Qmvjg)
 * [Medium blog](https://medium.com/@ecsa_team/)

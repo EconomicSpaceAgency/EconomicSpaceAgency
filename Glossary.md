@@ -1,6 +1,6 @@
 **Table of Contents** 
 
-- [C](#)
+- [<a href="#C">C</a>](#)
 	- [cDPO](#)
 	- [Computing fabric](#)
 - [D](#)
@@ -46,10 +46,10 @@
 
 ### <a name="cDPO">cDPO</a>
 
-commons-oriented decentralised programmable organisation <a href="#DPO">DPO</a>
+commons-oriented decentralised programmable organisation or <a href="#DPO">DPO</a>
 see also: https://medium.com/@ecsa_team/programmed-decentralised-commons-production-2b1fac7cf9a8
 
-### Computing fabric
+### <a name="Computing fabric">Computing fabric</a>
 
 World Computing Fabric is a modular, object capability-oriented architecture for building resilient, verifiable networks of virtual machines. This enables a new approach for creating systems and protocols for the digital economy. 
 
@@ -57,13 +57,13 @@ Blockchains such as Bitcoin and Ethereum are based on the same computing idea, a
 
 Instead of a World Computer implementation, [[#Gravity]] offers a platform for building interoperating networks of decentralized computers – a [[#World Computing Fabric]] architecture.
 
-## D
+## <a name="D">D</a>
 
-### DAO
+### <a name="DAO">DAO</a>
 
 Distributed Autonomous Organization
 
-### Dividual
+### <a name="Dividual">Dividual</a>
 
 The actors in economic spaces can be seen as dividuals, not individuals. Think about the way in which attention, “liking”, gossiping, smiling and so on have become economic acts, and how they are aggregated into flows. “The” economy does not want you, as an individual, not even your labour, but it wants slices of you, at unpredictable moments. In the Euclidian space, we get only the downside of this dividualism, the uncertainty, the precarity, so why not also the upside?
 

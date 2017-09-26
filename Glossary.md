@@ -42,9 +42,9 @@
 	- [World Computing Fabric](#)
 
 
-## C
+## <a name="C">C</a>
 
-### cDPO
+### <a name="cDPO">cDPO</a>
 
 commons-oriented decentralised programmable organisation <a href="#DPO">DPO</a>
 see also: https://medium.com/@ecsa_team/programmed-decentralised-commons-production-2b1fac7cf9a8

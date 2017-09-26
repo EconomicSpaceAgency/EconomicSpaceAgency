@@ -67,7 +67,7 @@ Distributed Autonomous Organization
 
 The actors in economic spaces can be seen as dividuals, not individuals. Think about the way in which attention, “liking”, gossiping, smiling and so on have become economic acts, and how they are aggregated into flows. “The” economy does not want you, as an individual, not even your labour, but it wants slices of you, at unpredictable moments. In the Euclidian space, we get only the downside of this dividualism, the uncertainty, the precarity, so why not also the upside?
 
-### #DPO
+### <id="DPO">DPO></id>
 
 Distributed Programmable Organization a.k.a DAO, but ECSA wants to emphasise the possibility to reprogram, even shut down and completely rewrite, a “DAO”; therefore a DPO
 

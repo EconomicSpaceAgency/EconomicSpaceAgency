@@ -46,8 +46,8 @@
 
 ### cDPO
 
-commons-oriented decentralised programmable organisation [[#DPO]]
-see also: [https://medium.com/@ecsa_team/programmed-decentralised-commons-production-2b1fac7cf9a8]
+commons-oriented decentralised programmable organisation [DPO]
+see also: [[https://medium.com/@ecsa_team/programmed-decentralised-commons-production-2b1fac7cf9a8]]
 
 ### Computing fabric
 

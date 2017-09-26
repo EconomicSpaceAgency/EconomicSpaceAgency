@@ -1,3 +1,6 @@
+Our wager and experience is that creative and metaphoric language, “even” art, is useful and fruitful when approaching something new and broadening horizons, so we will stick with it. We haven’t yet seen what a token can do! In that spirit, we started building a small glossary of terms that we hope to be helpful in discussing the change in economic space envisioned through GRAVITY and SPACE.
+
+
 **Table of Contents** 
 
 - [<a href="#C">C</a>](#)

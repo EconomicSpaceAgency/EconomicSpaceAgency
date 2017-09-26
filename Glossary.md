@@ -7,6 +7,7 @@ Our wager and experience is that creative and metaphoric language, “even” ar
 
 - [<a href="#C">C</a>](#)
 	- [<a href="#cDPO">cDPO</a>](#)
+	- [<a href="#commons-oriented peer production">commons-oriented peer production</a>](#)
 	- [<a href="#Computing fabric">Computing fabric</a>](#)
 - [<a href="#D">D</a>](#)
 	- [<a href="#DAO">DAO</a>](#)
@@ -53,6 +54,10 @@ Our wager and experience is that creative and metaphoric language, “even” ar
 
 commons-oriented decentralised programmable organisation or <a href="#DPO">DPO</a>
 see also: https://medium.com/@ecsa_team/programmed-decentralised-commons-production-2b1fac7cf9a8
+
+### <a name="commons-oriented peer production">commons-oriented peer production</a>
+
+<a href="#Peer production">Peer Production</a> that places its results in the commons (often also (some of) the raw materials of COPP are in the commons). Also called commons-based peer prodcution, https://en.wikipedia.org/wiki/Commons-based_peer_production
 
 ### <a name="Computing fabric">Computing fabric</a>
 
@@ -160,7 +165,7 @@ the goal of SPACE is to become an easily usable launch pad for rapid creation, d
 
 ### <a name="Peer Production">Peer Production</a>
 
-Peer production (also known as mass collaboration) is a way of producing goods and services that relies on self-organizing communities of individuals. In such communities, the labor of a large number of people is coordinated towards a shared outcome.
+Peer production (also known as mass collaboration) is a way of producing goods and services that relies on self-organizing communities of individuals. In such communities, the labor of a large number of people is coordinated towards a shared outcome. To be peers, the collaborators have to engage in the production voluntarily (as opposed to, say, wage labour).
 
 
 ## <a name="S">S</a>
@@ -184,7 +189,7 @@ Platform for the creation of an interoperable ecosystem of economic spaces, defi
 
 A computerized transaction protocol that executes the terms of a contract, typically running on a distributed virtual machine. On typical blockchains, the starting point of an unsafe space (open to destructive interference) means that contracting has to happen as a (programmed) limitation of interaction. On Gravity, in contrast, the starting point is a safe space (by definition contained by the capacity framework) from which an opening, an offer to join is made, by granting a right, as a creation of a new constructive interference; rather than smart contracts these could be called “smart expansive interholding”.
  
-### <a name="cDPO">cDPO</a>Sub-equity
+### <a name="Sub-equity">Sub-equity</a>
 
 When a <a href="#DPO">DPO</a> can issue tokens that possess both currency and equity-like features, its offer can be structured as a sub-equity – without the need to incorporate and issue equity. Just as a corporate equity, a sub-equity enables the tracking of risks and sharing of financial and social upsides. But as a more flexible and intermittent tool than its institutional counterpart, it can also be designed and offered case by case. The sub-equity model is particularly apt for networked production and co-operation, which is often flexible, dynamic and open-ended, both with regard to goals and timing. 
 

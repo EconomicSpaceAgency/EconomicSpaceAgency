@@ -46,8 +46,8 @@
 
 ### cDPO
 
-commons-oriented decentralised programmable organisation [DPO]
-see also: [[https://medium.com/@ecsa_team/programmed-decentralised-commons-production-2b1fac7cf9a8]]
+commons-oriented decentralised programmable organisation <a href="#DPO">DPO</a>
+see also: https://medium.com/@ecsa_team/programmed-decentralised-commons-production-2b1fac7cf9a8
 
 ### Computing fabric
 
@@ -67,7 +67,7 @@ Distributed Autonomous Organization
 
 The actors in economic spaces can be seen as dividuals, not individuals. Think about the way in which attention, “liking”, gossiping, smiling and so on have become economic acts, and how they are aggregated into flows. “The” economy does not want you, as an individual, not even your labour, but it wants slices of you, at unpredictable moments. In the Euclidian space, we get only the downside of this dividualism, the uncertainty, the precarity, so why not also the upside?
 
-### DPO
+### #DPO
 
 Distributed Programmable Organization a.k.a DAO, but ECSA wants to emphasise the possibility to reprogram, even shut down and completely rewrite, a “DAO”; therefore a DPO
 

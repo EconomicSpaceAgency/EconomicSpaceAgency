@@ -11,38 +11,37 @@ Our wager and experience is that creative and metaphoric language, “even” ar
 	- [<a href="#Dividual">Dividual</a>](#)
 	- [<a href="#DPO">DPO</a>](#)
 - [<a href="#E">E</a>](#)
-	- [Econaut](#)
-	- [Econaut Partnership](#)
-	- [Economic Space](#)
-	- [ECSA Cyber Trust](#)
-	- [ECSA DAO](#)
-	- [ECSA Inc.](#)
-	- [Euclidean economic space](#)
+	- [<a href="#Econaut">Econaut</a>](#)
+	- [<a href="#Econaut Partnership">Econaut Partnership</a>](#)
+	- [<a href="#Economic Space">Economic Space</a>](#)
+	- [<a href="#Econaut">Econaut</a>ECSA DAO](#)
+	- [<a href="#Econaut">Econaut</a>ECSA Inc.](#)
+	- [<a href="#Econaut">Econaut</a>Euclidean economic space](#)
 - [<a href="#G">G</a>](#)
-	- [Gravity](#)
+	- [<a href="#Econaut">Econaut</a>Gravity](#)
 - [<a href="#I">I</a>](#)
-	- [Intentional economy](#)
-	- [ITL](#)
+	- [<a href="#Econaut">Econaut</a>Intentional economy](#)
+	- [<a href="#Econaut">Econaut</a>ITL](#)
 - [<a href="#M">M</a>](#)
-	- [Monoeconomy](#)
+	- [<a href="#Econaut">Econaut</a>Monoeconomy](#)
 - [<a href="#N">N</a>](#)
-	- [non-Euclidean economic space](#)
+	- [<a href="#Econaut">Econaut</a>non-Euclidean economic space](#)
 - [<a href="#O">O</a>](#)
-	- [Object Capability model](#)
-	- [Open sourcing finance](#)
+	- [<a href="#Econaut">Econaut</a>Object Capability model](#)
+	- [<a href="#Econaut">Econaut</a>Open sourcing finance](#)
 - [<a href="#P">P</a>](#)
-	- [Peer Production](#)
+	- [<a href="#Econaut">Econaut</a>Peer Production](#)
 - [<a href="#S">S</a>](#)
-	- [Self-governance](#)
-	- [Self-issuance](#)
-	- [Space (ECSA Platform)](#)
-	- [Smart Contract](#)
-	- [Sub-equity](#)
-	- [Synthetic finance](#)
+	- [<a href="#Econaut">Econaut</a>Self-governance](#)
+	- [<a href="#Econaut">Econaut</a>Self-issuance](#)
+	- [<a href="#Econaut">Econaut</a>Space (ECSA Platform)](#)
+	- [<a href="#Econaut">Econaut</a>Smart Contract](#)
+	- [<a href="#Econaut">Econaut</a>Sub-equity](#)
+	- [<a href="#Econaut">Econaut</a>Synthetic finance](#)
 - [<a href="#T">T</a>](#)
-	- [Token](#)
+	- [<a href="#Econaut">Econaut</a>Token](#)
 - [<a href="#W">W</a>](#)
-	- [World Computing Fabric](#)
+	- [<a href="#Econaut">Econaut</a>World Computing Fabric](#)
 
 
 ## <a name="C">C</a>
@@ -94,9 +93,9 @@ The collection of users, smart (private and/or public) contracts, resource pools
 
 On [[#Space (ECSA Platform) | Space]], economic spaces are protocols of economic, financial and social interaction, of value and risk creation, of sharing and distribution of resources. They are self-governed, peer-to-peer programmable organizations that can operate together in an emergent network, formed dynamically through the relations they establish between each other. The goal is the interoperation of a plurality of micro-economies, each with its own governance model, value creation logic and capacity for tokenized self-issuance. These micro-economies will be structurally interoperable to the extent they desire, and they will be able to utilize the structures created by others as a basis of their own operations.
 
-### ECSA Cyber Trust
+### Economic Space Foundation
 
-The organization responsible for the launch (ITL) of the ECSA token
+A Swiss foundation, with the task of "promot[ing] and develop[ing] new technologies and applications, especially in the fields of new open and decentralized software architectures, with a dominating but not exclusive focus on the promotion and development of the so-called Gravity protocol, Space platform and the related technologies, as well as the promotion and support of applications using the Gravity protocol and Space platform."
 
 
 ### ECSA DAO

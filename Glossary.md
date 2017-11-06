@@ -203,6 +203,21 @@ Finance that uses financial instruments that are built out of or on top of other
 
 On <a href="#Space (ECSA Platform)">Space (ECSA Platform)</a>, tokens are not hardwired according to the functioning of the platform software, but rather can be programmed to correspond to the needs of the issues (an economic space) of the token; a token is just another kind of smart contract that is public to its users.
 
+### <a name"Token, Roles of">Token, Roles of</a> 
+
+Currency:
+Tokens that emphasize their general exchangeability, potentially with any item of value, can conceivably attain currency-like patterns of usage. Programmed economy endows all tokens with the potential ease of exchangeability that is required from currencies. 
+
+Equity:
+Tokens that emphasize their connection to a source of backing, and function in relation to that source, operate more like equity. Token can function in the manner of a stock, while expanding the range of stock's relation to its issuer, both in terms of the value it holds and the rights it offers. Within programmable economy, currency and equity form a continuum where many forms can exist as hybrids of the two. For example, Bitcoin is a hybrid of equity and currency, exhibiting behaviors that we've come to expect from stocks.
+
+Governance:
+Tokens can also be designed as tools of governance. An example of this is the behavioral economy of Stackoverflow, and the role of its reputation points (which are essentially tokens) as incentivizing desired behavior. Such tokens might be restricted to an internal economy, but this is by no means necessary. Because every token is necessarily a distributor of the governance design embedded in it,  incentivization of behavior is present in all of them, whether desired or not.
+
+EXAMPLE
+X token originally has only a single usage--as a form of payment within an organization. A new offer from a separate (but related) organization stipulates that X token is now a requirement for participation in the latter’s decision-making. Thus, the offer creates a new usage for the token and thereby changes its nature, that is, its valuation, demand and liquidity. In this and any case, the offer and token can originate from anywhere and need not pertain to the same organization. 
+
+
 ## <a name="W">W</a>
 
 ### World Computing Fabric

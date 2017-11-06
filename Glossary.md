@@ -155,7 +155,7 @@ non-Euclidean economic spaces move beyond the imaginary of limitations, austerit
 
 ### <a name="Object Capability model">Object Capability model</a>
 
-[https://en.wikipedia.org/wiki/Object-capability_model The object-capability model] is a computer security model. A capability describes a transferable right to perform one (or more) operations on a given object.
+The object-capability model is a computer security model. A capability describes a transferable right to perform one (or more) operations on a given object. https://en.wikipedia.org/wiki/Object-capability_model
 
 ### <a name="Open sourcing finance">Open sourcing finance</a>
 

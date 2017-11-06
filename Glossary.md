@@ -44,6 +44,7 @@ Our wager and experience is that creative and metaphoric language, “even” ar
 	- [<a href="#Synthetic finance">Synthetic finance</a>](#)
 - [<a href="#T">T</a>](#)
 	- [<a href="#Token">Token</a>](#)
+	- [<a href="#Token, Roles of">Token, Roles of</a>](#)
 - [<a href="#W">W</a>](#)
 	- [<a href="#World Computing Fabric">World Computing Fabric</a>](#)
 
@@ -203,7 +204,7 @@ Finance that uses financial instruments that are built out of or on top of other
 
 On <a href="#Space (ECSA Platform)">Space (ECSA Platform)</a>, tokens are not hardwired according to the functioning of the platform software, but rather can be programmed to correspond to the needs of the issues (an economic space) of the token; a token is just another kind of smart contract that is public to its users.
 
-### <a name"Token, Roles of">Token, Roles of</a> 
+### <a name="Token, Roles of">Token, Roles of</a> 
 
 Currency:
 Tokens that emphasize their general exchangeability, potentially with any item of value, can conceivably attain currency-like patterns of usage. Programmed economy endows all tokens with the potential ease of exchangeability that is required from currencies. 

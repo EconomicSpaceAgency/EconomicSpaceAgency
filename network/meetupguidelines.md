@@ -12,7 +12,7 @@ To that end, we want to continuously improve the info here based on your feedbac
 
 Find, if possible, 2-3 other community members to help you with the event logistics, setup and promotion.
 
-Use the online channels (Slack, Twitter, etc.) to find other local/regional Econauts that can get involved and help with the meetup.
+Use the online channels ([Slack](http://slack.ecsa.io), [Twitter](https://twitter.com/ecsa_team), etc.) to find other local/regional [Econauts](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/Glossary.md#Econaut) that can get involved and help with the meetup.
 Make sure you have the time to take on the responsibility of leading the group. Successful meetup groups have consistent leadership and representation.
 
 ## Content
@@ -20,14 +20,14 @@ Specify the intended audience and focus of the group: Is this for developers, th
 Once you’ve decided on an audience, create an agenda that would be interesting to attendees. If this is the first meetup in your city, consider as an initial agenda item a discussion around the goal or focus of the group. This way you get buy-in and feedback early on from the community.
 
 ## Proposed first topics
-* As a possible first topic, we suggest an introduction to the vision on terraforming economic space that is at the heart of the ECSA network. HERE [LINK] are the guidelines for a session on “What is Economic Space and ECSA?”
+* As a possible first topic, we suggest an introduction to the vision on terraforming economic space that is at the heart of the ECSA network. TBA are the guidelines for a session on “What is Economic Space and ECSA?”
 * AMA, Ask Me Anything, team answers questions, see below for how to request a team member to participate. If it is possible to prepare and relay the questions beforehand, the answers may be of higher quality and precision. :)
 
 ## Request Core Team member to call in
 You can also request someone from the Core Team to present or take part in a Q&A or AMA at the Meetup via skype/zoom/hangouts/etc. We can not guarantee that someone can make it, but we are distributed all over the globe, so chances are that someone will be awake during the time of your meetup. Requests: meetups@ecsa.io
 
 ## Logistics
-Use the Meetup.com platform for user groups and name it economicspace.agency-[city]
+Use the Meetup.com platform for user groups and name it economicspace.agency-(city)
 Check that the meetup is not competing with other events and conferences in the area by checking meetup.com’s calendar for similar events, and searching to see if there are other major gatherings close by on that day.
 Select an accessible venue in a central area to your city when possible. Take a look at hosting these at companies, incubator spaces, co-working spaces or other communal venues that would be interested in hosting. Factors to consider:
 * Price (free is always best)

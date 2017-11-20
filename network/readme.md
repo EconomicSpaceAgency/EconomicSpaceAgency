@@ -22,6 +22,6 @@ For details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-
 
 The Core Team organises [meetups](https://www.meetup.com/EconomyOS/) and other [events](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/events/README.md) and encourages that network participants and community members also run meetups, hackathons and other events!
 
-Here are [guidelines for organising an ECSA Network/Community meetup]()
+Here are [guidelines for organising an ECSA Network/Community meetup](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/network/meetupguidelines.md)
 
 

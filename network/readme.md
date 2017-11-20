@@ -1,6 +1,6 @@
 # Economic Space Agency Network (Community)
 
-ECSA is a multi-organisational entity (MOE) -- several organisations, with different structures and with a common goal
+ECSA is a multi-organisational entity (MOE) – several organisations, with different structures and with a common goal
 
 This directory is for the ECSA Network or ECSA Community, the open source community around the ECSA Core Team 
 for details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-what-is-ecsa-exactly-7fe8014c7d6c)
@@ -18,7 +18,7 @@ for details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-
 * <a href="#gravity">Gravity</a>
 -->
 
-* <a name="#meetups">Meetups</a>
+## <a name="#meetups">Meetups</a>
 
 The Core Team organises [meetups](https://www.meetup.com/EconomyOS/) and other [events](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/events/README.md) and encourages that network participants and community members also run meetups, hackathons and other events!
 

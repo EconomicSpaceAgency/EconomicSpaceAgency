@@ -1,9 +1,9 @@
 # Economic Space Agency Network (Community)
 
-ECSA is a multi-organisational entity (MOE) – several organisations, with different structures and with a common goal
+ECSA is a multi-organisational entity (MOE) – several organisations, with different structures and with a common goal.
 
-This directory is for the ECSA Network or ECSA Community, the open source community around the ECSA Core Team 
-for details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-what-is-ecsa-exactly-7fe8014c7d6c)
+This directory is for the ECSA Network or ECSA Community, the open source community around the ECSA Core Team. 
+For details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-what-is-ecsa-exactly-7fe8014c7d6c)
 
 - The ECSA network/community works based on Open Source principles
 - Anyone can start contributing as a participant of the network

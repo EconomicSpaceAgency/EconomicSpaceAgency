@@ -1,6 +1,8 @@
 # Economic Space Agency
 
 Economic Space Agency is involved in two interlinked projects, SPACE and GRAVITY, that together provide a system of programmable economy, and its governance.
+ECSA’s mission is to build the tools to open source finance and terraform new economic spaces, and to provide a framework for those tools that grows toward a heterogeneous, collective economy accessible to everyone.
+
 
 # Table of contents
 

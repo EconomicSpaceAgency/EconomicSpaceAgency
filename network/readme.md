@@ -18,7 +18,7 @@ for details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-
 * <a href="#gravity">Gravity</a>
 -->
 
-* <a href="#meetups">Meetups</a>
+* <a name="#meetups">Meetups</a>
 
 The Core Team organises [meetups](https://www.meetup.com/EconomyOS/) and other [events](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/events/README.md) and encourages that network participants and community members also run meetups, hackathons and other events!
 

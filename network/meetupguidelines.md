@@ -35,12 +35,15 @@ Select an accessible venue in a central area to your city when possible. Take a 
 * Is the place too loud for the meetup?
 
 ## Communications
-Create a new group listing HERE [LINK] or request us to add one for you by contacting the ECSA core team at meetups@ecsa.io once you have most of the details finalized for the event. We will make sure you are listed on the official ECSA event section of our website and help you promote the event through our community channels.
+Contact the ECSA core team at meetups@ecsa.io once you have most of the details finalized for the event. We will make sure you are listed on the official ECSA event section of our website and help you promote the event through our community channels.
+
 Promote your event on social media and use #economicspace or @ecsa_ team to make sure to have other community members spread the word once they join the group.
+
 During the event, encourage people to post pictures and videos with the hashtags so the community can follow along and get involved.
 
 ## Branding/Assets
 Please use the [ECSA assets and logos available to download](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/tree/master/brandingassets)
+
 If you would like any presentation materials, one-sheets or any other documentation, please email us and we will send a link for you to download and distribute.
 
 ## Follow-up

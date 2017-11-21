@@ -14,6 +14,7 @@ For details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-
 # Table of contents
 
 * <a href="#meetups">Meetups</a>
+* <a href="#BLT">BLT and Legal Architecture</a>
 <!--
 * <a href="#gravity">Gravity</a>
 -->
@@ -22,6 +23,10 @@ For details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-
 
 The Core Team organises [meetups](https://www.meetup.com/EconomyOS/) and other [events](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/events/README.md) and encourages that network participants and community members also run meetups, hackathons and other events!
 
-Here are [guidelines for organising an ECSA Network/Community meetup](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/network/meetupguidelines.md)
+* Here are [guidelines for organising an ECSA Network/Community meetup](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/network/meetupguidelines.md)
+
+## <a name="#BLT">BLT and Legal Architecture</a>
+
+* CIVICS.com and ECSA collaboration towards a [BLT and Legal framework for Space & Gravity] (https://github.com/CIVICS/ECSA/blob/master/scope.md)
 
 

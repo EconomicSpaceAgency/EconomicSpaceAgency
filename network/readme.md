@@ -27,6 +27,6 @@ The Core Team organises [meetups](https://www.meetup.com/EconomyOS/) and other [
 
 ## <a name="#BLT">BLT and Legal Architecture</a>
 
-* CIVICS.com and ECSA collaboration towards a [BLT and Legal framework for Space & Gravity] (https://github.com/CIVICS/ECSA/blob/master/scope.md)
+* CIVICS.com and ECSA collaboration towards a [BLT and Legal framework for Space & Gravity](https://github.com/CIVICS/ECSA/blob/master/scope.md)
 
 

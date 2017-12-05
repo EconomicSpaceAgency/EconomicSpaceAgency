@@ -7,6 +7,7 @@ Ongoing [MeetUps](https://www.meetup.com/EconomyOS/)
 
 ## 2017
 
+* December, Monday 4., How to opensource finance? ECSA and friends in Sao Paulo [Facebook event](https://www.facebook.com/events/133403280655056/)
 * September, Thursday the 28th: Gravity: Smart Contracts Unchained, Pencilworks, NYC [Facebook event](https://www.facebook.com/events/346096862481245/)
 * September, Wednesday the 27th: Economic Space Agency and the Future of Money, At e-flux, NYC [Facebook event](https://www.facebook.com/events/2391290801095310/)
 * September, Tuesday the 26th: Financialization and its discontents: Some possible remedies, Pratt Institute, NYC [Facebook event](https://www.facebook.com/events/1596639043733674/)

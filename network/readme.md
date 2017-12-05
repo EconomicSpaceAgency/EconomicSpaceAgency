@@ -13,11 +13,16 @@ For details see [What is ECSA, exactly?](https://medium.com/economic-spacing/so-
 
 # Table of contents
 
+* <a href="#materials">Materials</a>
 * <a href="#meetups">Meetups</a>
 * <a href="#BLT">BLT and Legal Architecture</a>
 <!--
 * <a href="#gravity">Gravity</a>
 -->
+
+## <a name="#materials">Materials</a>
+
+Presentation: [What is Economic Space? What is ECSA?](https://docs.google.com/presentation/d/e/2PACX-1vTjumMW415hdxRxe6utcoa_6-arZr05pz7TQ01Fx2GiM0rIQ-T1zHgiPav10-4iS_j-Xrdf_Y2E8JH7/pub?start=false&loop=false&delayms=3000)
 
 ## <a name="#meetups">Meetups</a>
 

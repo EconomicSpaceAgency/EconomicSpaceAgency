@@ -5,6 +5,10 @@ Here you can find info on past, present and future events.
 
 Ongoing [MeetUps](https://www.meetup.com/EconomyOS/)
 
+## 2018
+
+* January, Saturday 20., ECSA at ["Manipulate the World" at Moderna Museet, Stockholm, Sweden](https://www.modernamuseet.se/stockholm/en/exhibitions/manipulate-the-world/works-artists/)
+
 ## 2017
 
 * December, Monday 4., How to opensource finance? ECSA and friends in Sao Paulo [Facebook event](https://www.facebook.com/events/133403280655056/)

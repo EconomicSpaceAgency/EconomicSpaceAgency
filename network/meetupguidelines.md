@@ -20,7 +20,7 @@ Specify the intended audience and focus of the group: Is this for developers, th
 Once you’ve decided on an audience, create an agenda that would be interesting to attendees. If this is the first meetup in your city, consider as an initial agenda item a discussion around the goal or focus of the group. This way you get buy-in and feedback early on from the community.
 
 ## Proposed first topics
-* As a possible first topic, we suggest an introduction to the vision on terraforming economic space that is at the heart of the ECSA network. TBA are the guidelines for a session on “What is Economic Space and ECSA?”
+* As a possible first topic, we suggest an introduction to the vision on terraforming economic space that is at the heart of the ECSA network. Here is a presentation of the basics: [“What is Economic Space and ECSA?”](https://docs.google.com/presentation/d/e/2PACX-1vTjumMW415hdxRxe6utcoa_6-arZr05pz7TQ01Fx2GiM0rIQ-T1zHgiPav10-4iS_j-Xrdf_Y2E8JH7/pub?start=false&loop=false&delayms=3000)
 * AMA, Ask Me Anything, team answers questions, see below for how to request a team member to participate. If it is possible to prepare and relay the questions beforehand, the answers may be of higher quality and precision. :)
 
 ## Request Core Team member to call in

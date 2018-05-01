@@ -36,6 +36,7 @@ Our wager and experience is that creative and metaphoric language, “even” ar
 - [<a href="#P">P</a>](#)
 	- [<a href="#Peer Production">Peer Production</a>](#)
 - [<a href="#S">S</a>](#)
+	- [<a href="#Securitization">Securitization</a>](#)
 	- [<a href="#Self-governance">Self-governance</a>](#)
 	- [<a href="#Self-issuance">Self-issuance</a>](#)
 	- [<a href="#Space (ECSA Platform)">Space (ECSA Platform)</a>](#)
@@ -171,6 +172,10 @@ Peer production (also known as mass collaboration) is a way of producing goods a
 
 ## <a name="S">S</a>
 
+### <a name="Securitization">Securitization</a>
+
+Securitization, abstractly, is a technology for the deterritorialization of risk and cash flow, and can therefore be reengineered as an instrument for the dynamical creation and distribution of common equity.
+
 ### <a name="Self-governance">Self-governance</a>
 
 Self-governance is the right to propose rules of governance, which the other agents can choose to acknowledge. Governance here extends from private contracts to general agreements, from accepting a certain template of identity when joining a platform (which is a form of contemporary governance often unprocessed as such) to rules of general behavioral definitions. In an economic space, self-governance means the ability to form the <a href="#Economic Space">Economic Space</a> so that its dynamical aspects (attractors, state spaces, etc.) reward the desired behaviour and outcomes.
@@ -196,7 +201,19 @@ When a <a href="#DPO">DPO</a> can issue tokens that possess both currency and eq
 
 ### <a name="Synthetic finance">Synthetic finance</a>
 
-Finance that uses financial instruments that are built out of or on top of other financial instruments
+Finance that uses financial instruments that are built out of or on top of other financial instruments.
+
+Synthetic finance is a technology for the fungible distribution of risk and cash flow,
+thus lending its operators a veritable method for self-arranging their own economic attractors,
+and their own refrains.
+
+Securitization, abstractly, is a technology for the deterritorialization of risk and cash flow, and is
+therefore quite easily reengineered as an instrument for the dynamical creation and distribution
+of common equity.
+
+Financial Derivatives, too, are chocked-full of intensive economic properties. Options, for
+instance, facilitate any number of customizable bilateral exchanges between those who write and
+issue new options and those who accept and exercise them.
 
 ## <a name="T">T</a>
 

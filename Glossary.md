@@ -219,6 +219,8 @@ issue new options and those who accept and exercise them.
 
 ### <a name="Token">Token</a>
 
+Tokens have been conceived as coins, as representing units of equity and debt, and as access keys, but most generally they are the basic accounting and operational entities of cryptographically enabled distributed economic-organizational systems.
+
 On <a href="#Space (ECSA Platform)">Space (ECSA Platform)</a>, tokens are not hardwired according to the functioning of the platform software, but rather can be programmed to correspond to the needs of the issues (an economic space) of the token; a token is just another kind of smart contract that is public to its users.
 
 ### <a name="Token, Roles of">Token, Roles of</a> 
